@@ -2,6 +2,9 @@
 
 This repository is for biostat821 final project. 
 
+## Techniques Used
+Bash, Docker Container, API, Package Python code
+
 ## Data Source
 
 The database used in this project is downloaded from Kaggle. [download](https://www.kaggle.com/hugomathien/soccer/download).
